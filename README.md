@@ -1,4 +1,4 @@
-# kulineran
+# Staycation
 
 ## Project setup
 ```

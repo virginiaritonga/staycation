@@ -1,7 +1,7 @@
 # Staycation
 
 # Deployment
-(https://git.heroku.com/staycationapp.git)
+https://staycationapp.herokuapp.com
 
 ## Project setup
 ```

@@ -1,5 +1,10 @@
 # Staycation
 
+# Deployment
+```
+https://git.heroku.com/staycationapp.git
+```
+
 ## Project setup
 ```
 npm install

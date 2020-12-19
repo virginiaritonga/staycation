@@ -1,8 +1,5 @@
 # Staycation
 
-# Deployment
-https://staycationapp.herokuapp.com
-
 ## Project setup
 ```
 npm install
